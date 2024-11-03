@@ -1,0 +1,167 @@
+[
+  {
+    "player_id": "PLR001",
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/qyXQBkK/d973a-17150616187538-1920.jpg",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "rating": 92,
+    "bidding_price": 1600000
+  },
+  {
+    "player_id": "PLR002",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/PcZPNfh/kane-Williamson.jpg",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "rating": 89,
+    "bidding_price": 1400000
+  },
+  {
+    "player_id": "PLR003",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/pKhDMLF/Rashid-Khan-2203280953.jpg",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "rating": 87,
+    "bidding_price": 1200000
+  },
+  {
+    "player_id": "PLR004",
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/gW09nZb/Untitled-design-12.jpg",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "rating": 90,
+    "bidding_price": 1500000
+  },
+  {
+    "player_id": "PLR005",
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/3Fb8Wzq/1704172049-0543.jpg",
+    "role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "rating": 85,
+    "bidding_price": 1300000
+  },
+  {
+    "player_id": "PLR006",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://i.ibb.co.com/vzbrdnR/Jasprit-bumrah.png",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "rating": 88,
+    "bidding_price": 1400000
+  },
+  {
+    "player_id": "PLR007",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/pdh5jX6/babar-azam-file-1.jpg",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "rating": 91,
+    "bidding_price": 1550000
+  },
+  {
+    "player_id": "PLR008",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/nD2LZjY/Trent-Boult.jpg",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "rating": 86,
+    "bidding_price": 1250000
+  },
+  {
+    "player_id": "PLR009",
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/Sdwx5zL/free-spirted-quinton-de-kock-must-be-allowed-to-fly-aiden-markram-2023-10-25.jpg",
+    "role": "Wicketkeeper Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Bowl None",
+    "rating": 84,
+    "bidding_price": 1350000
+  },
+  {
+    "player_id": "PLR010",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/8YgpVcd/Pat-Cummins1685874755993.jpg",
+    "role": "Bowler",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "rating": 89,
+    "bidding_price": 1500000
+  },
+  {
+    "player_id": "PLR011",
+    "name": "Kieron Pollard",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/Q8b2bcT/picture1668515769620.jpg",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "rating": 83,
+    "bidding_price": 1400000
+  },
+  {
+    "player_id": "PLR012",
+    "name": "Moeen Ali",
+    "country": "England",
+    "image": "https://i.ibb.co.com/hmZbv6n/Getty-Images-2159407997-e1725790401893.jpg",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "rating": 80,
+    "bidding_price": 1100000
+  },
+  {
+    "player_id": "PLR013",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/J3JFPKs/2-464.jpg",
+    "role": "All-rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "rating": 88,
+    "bidding_price": 1450000
+  },
+  {
+    "player_id": "PLR014",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/74BjD12/075r9f6k-glenn-maxwell-ani-640x480-07-November-23.jpg",
+    "role": "All-rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "rating": 85,
+    "bidding_price": 1350000
+  },
+  {
+    "player_id": "PLR015",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://i.ibb.co.com/bjt9FDM/113209976.jpg",
+    "role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "rating": 90,
+    "bidding_price": 1550000
+  }
+]

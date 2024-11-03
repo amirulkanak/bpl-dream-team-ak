@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Development Purpose only */
+.kanak {
+  border: 1px solid blue;
+}
+/* ------------------------- */
+
+@layer components {
+  .max-width-wrapper {
+    @apply max-w-[82.5rem] w-full mx-auto pc:px-0 px-4;
+  }
+  .active-btn {
+    @apply bg-clr-chartreuse-yellow !text-clr-woodsmoke;
+  }
+  .selected-btn {
+    @apply py-3 px-[1.81rem] font-bold text-base text-clr-woodsmoke/60 border border-solid border-clr-woodsmoke/10 border-l-0 rounded-r-xl;
+  }
+  .avaiable-btn {
+    @apply py-3 px-[1.81rem] font-bold text-base text-clr-woodsmoke/60 border border-solid border-clr-woodsmoke/10 border-r-0 rounded-l-xl;
+  }
+}
+
+@layer utilities {
+  body {
+    @apply font-sora;
+  }
+}
